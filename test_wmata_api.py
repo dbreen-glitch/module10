@@ -54,5 +54,6 @@ class WMATATest(unittest.TestCase):
             )
 ################################################################################
 
+# Use to run
 if __name__ == "__main__":
     unittest.main()
